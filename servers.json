@@ -1,14 +1,20 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "GoldRealms",
+		"ip": "GoldRealms.myserver.gs",
 		"type": "PC",
-		"category": "minigames"
+		"category": "General"
 	},
 	{
-		"name": "HiveMC",
-		"ip": "play.hivemc.com",
+		"name": "FrostRealms",
+		"ip": "mc.frostrealms.com",
 		"type": "PC",
-		"category": "minigames"
+		"category": "General"
+	},
+	}
+		"name": "CosmicCraft",
+		"ip": "MC.CosmicMC.com",
+		"type": "PC",
+		"category": "General"
 	}
 ]
